@@ -1,0 +1,10 @@
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\bin\Debug\SQLFundamentals.dacpac
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\obj\Debug\SQLFundamentals.sqlproj.AssemblyReference.cache
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\obj\Debug\SQLFundamentals.dll
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\obj\Debug\SQLFundamentals.pdb
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\bin\Debug\SQLFundamentals.dll
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\bin\Debug\SQLFundamentals.pdb
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\obj\Debug\Model.xml
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\obj\Debug\refactor.xml
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\obj\Debug\postdeploy.sql
+C:\.NET Basic\SQLFundamentals\SQLFundamentals\obj\Debug\predeploy.sql

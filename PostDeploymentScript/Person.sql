@@ -1,0 +1,1 @@
+﻿IF NOT EXISTS(SELECT * FROM [dbo].[Person])	BEGIN		SET IDENTITY_INSERT [dbo].[Person] ON;		INSERT [dbo].[Person] ([Id], [FirstName], [LastName]) VALUES (1,'Ivanov', 'Ivan');        INSERT [dbo].[Person] ([Id], [FirstName], [LastName]) VALUES (2,'Petrov', 'Petr');				SET IDENTITY_INSERT [dbo].[Person] OFF;	END;
